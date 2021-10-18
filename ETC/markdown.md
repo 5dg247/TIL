@@ -168,10 +168,14 @@ _**중복도 이용 가능합니다**_
     텝(tap)
 
 ## **11. 이모지**
+이모지 검색   
+https://www.webfx.com/tools/emoji-cheat-sheet/  
+
 ```
-:이모지:
+:사용할 이모지 넣기:
+:smile:
 :smile:
 ```  
 :smile:  
-:smile:
+:smile:  
 
