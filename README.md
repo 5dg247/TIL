@@ -15,7 +15,8 @@
 
 
 
-
+## IntelliJ
+* [멀티모듈사용시설정](./IntelliJ/멀티-모듈-사용시-설정.md)
 
 ## ETC
 * [Markdown](./ETC/markdown.md)  
