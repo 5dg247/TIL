@@ -13,10 +13,12 @@
 ## Spring
 * [MVC구조](./Spring/MVC구조.md)
 * [스프링동작환경](./Spring/스프링동작환경.md)
+* [Test케이스](./Spring/Test케이스.md)
 
 
 
 ## IntelliJ
+* [단축키](./IntelliJ/단축키.md)
 * [멀티모듈사용시설정](./IntelliJ/멀티-모듈-사용시-설정.md)
 
 ## ETC
