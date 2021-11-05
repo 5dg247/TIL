@@ -16,3 +16,4 @@ Assertions.assertThat(actual).isEqualTo(expected);
 ```
 * Test를 통해서 파라메타 값들을 비교할 때 쓰는 메소드이다. 다른 비교방법들은 무수히 많지만 요즘 추세가 asserThat을 쓰는데 이유는 테스트 메소드를 동작 했을 때 `actual`(실제 값)과 `expected`(예상되는 값, 비교되는 값) 값 둘 다 출력이 돼서 비교를 더 명확하게 할 수 있다. 
 * 인텔리제이에서는 Assertions에 커서를 대고서 `Alt + Enter` 를 쓰면 Assertions가 impoert static이 되어서 asserThat만 써도 이용가능하게 바뀐다.
+* 테스트를 먼저하고 그 다음에 개발을 이어나가는 것을 테스트 주도 개발(TDD - Test Driven Development)이라한다.
