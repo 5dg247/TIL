@@ -20,7 +20,7 @@
 * [jQuery](./JS/jQuery.md)
 
 ## Thymeleaf
-* [classappend](./Thymmeleaf/classappend.md)
+* [classappend](./Thymeleaf/classappend.md)
 
 ## IntelliJ
 * [단축키](./IntelliJ/단축키.md)
