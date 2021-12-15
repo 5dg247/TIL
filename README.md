@@ -18,6 +18,7 @@
 ## JS
 * [개념정리](./JS/개념정리.md)
 * [jQuery](./JS/jQuery.md)
+* [readonly와 disabled 차이점](./JS/readonly와disabled차이점.md)
 
 ## Thymeleaf
 * [classappend](./Thymeleaf/classappend.md)
