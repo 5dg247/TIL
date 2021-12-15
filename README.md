@@ -16,9 +16,9 @@
 * [Test케이스](./Spring/Test케이스.md)
 
 ## JS
-* [개념정리](./JS/개념정리.md)
-* [jQuery](./JS/jQuery.md)
-* [readonly와 disabled 차이점](./JS/readonly와disabled차이점.md)
+* [개념정리](./JavaScript/개념정리.md)
+* [jQuery](./JavaScript/jQuery.md)
+* [readonly와 disabled 차이점](./JavaScript/readonly와disabled차이점.md)
 
 ## Thymeleaf
 * [classappend](./Thymeleaf/classappend.md)
