@@ -19,6 +19,7 @@
 * [개념정리](./JavaScript/개념정리.md)
 * [jQuery](./JavaScript/jQuery.md)
 * [readonly와 disabled 차이점](./JavaScript/readonly와disabled차이점.md)
+* [Promise then 사용법](./JavaScript/promise.md)
 
 ## Thymeleaf
 * [classappend](./Thymeleaf/classappend.md)
