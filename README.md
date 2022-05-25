@@ -11,6 +11,8 @@
 * [TCP_UDP](./http/TCP_UDP.md)
 * [PORT](./http/PORT.md)
 * [DNS](./http/DNS.md)
+* [데이터전송](./http/데이터전송.md)
+* [메서드속성](./http/메서드속성.md)
 
 ## DB
 * [개념정리](./DB/개념정리.md)
