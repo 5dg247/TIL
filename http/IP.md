@@ -1,5 +1,5 @@
 # IP(internet protocol)
-* protocol의 사전적인 의미는 통신 규약.
+* protocol의 사전적 의미는 통신 규약.
 * 데이터를 보내는 쪽과 받는 쪽에서 ip 주소를 부여 받는 것에서 시작한다.
 * 지정한 ip address에 데이터 전달. 패킷(Packet) 통신 단위로 데이터 전달.
 * 출발지ip, 도착ip, 기타 등등의 값들을 담은 것을 ip패킷이라 한다.
