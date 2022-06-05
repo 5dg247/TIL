@@ -1,9 +1,11 @@
 # URI
-## URI ![uri](./img/uri.png)
+![uri](./img/uri.png)
 * URI - Uniform Resource Identifier - 리소스를 식별하는 통합된 방법
 * URI는 로케이터(locater), 이름(name), 또는 둘 다로 분류 될 수 있다.
 * URL은 Resource의 위치, URN은 Resource의 이름이다.
-* ![urlurn](./img/urlurn.png)
+
+![urlurn](./img/urlurn.png)
+
 * 우리가 흔히 쓰는 것은 URL이다. URN처럼 그냥 이름을 부여 하면 찾기가 힘들다.
 
 ## URI 의 뜻
