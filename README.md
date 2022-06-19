@@ -15,6 +15,7 @@
 * [메서드속성](./http/메서드속성.md)
 * [URI](./http/URI.md)
 * [api설계](./http/api설계.md)
+* [http상태코드](./http/http상태코드.md)
 
 ## DB
 * [개념정리](./DB/개념정리.md)
